@@ -32,7 +32,8 @@ Predict the output using the testing data and display the predicted results.
 ### predictedCO2 = regr.predict(input_data)
 ### print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ## Output:
-<img width="1096" height="657" alt="WhatsApp Image 2026-11-25 at 9 03 42 AM" src="https://github.com/user-attachments/assets/3d8d4f64-2954-4fea-993c-c662ea6f5996" />
+<img width="928" height="817" alt="WhatsApp Image 2026-11-25 at 4 20 16 PM" src="https://github.com/user-attachments/assets/66bca3f0-fe39-4134-8308-d971b6983420" />
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
